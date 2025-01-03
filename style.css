@@ -28,7 +28,5 @@ body{
     padding: 20px 30px;
     border: 1px solid #000;
     border-radius: 10px;
-}
-.submit-button:hover{
     cursor: pointer;
 }
