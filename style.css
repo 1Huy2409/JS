@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    width: 1000px;
+    margin-inline: auto;
+    height: 100vh;
+    margin-top: 200px;
+}
+.inner-container 
+{
+    display: flex;
+    width: 500px;
+    gap: 50px;
+}
+.inner-container input
+{
+    width: 300px;
+    margin-bottom: 20px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.inner-container .submit-button
+{
+    padding: 20px 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
